@@ -1,0 +1,37 @@
+{
+  "highestlevel" :  "vertaling",
+  "navigation": {
+    "applicationTitle": "Test Json Translation"
+  },
+  "furtherinfo" : {
+    "detail": {
+      "information": {
+        "paid": "Paid",
+        "amountTotal": "Total"
+      }
+    }
+  },
+  "random": {
+    "random1": "",
+    "random2": "bla bla",
+    "random3": "",
+    "random4": "test test",
+    "random5": {
+      "digging": {
+        "extra": {
+          "deep": {
+            "inside": {
+              "of": {
+                "a": {
+                  "json": {
+                    "sorry": "not sorry"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

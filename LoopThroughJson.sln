@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LoopThroughJson", "LoopThroughJson\LoopThroughJson.csproj", "{B2F49F14-C8EF-4D0E-9237-11A3A83B65B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2F49F14-C8EF-4D0E-9237-11A3A83B65B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F49F14-C8EF-4D0E-9237-11A3A83B65B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F49F14-C8EF-4D0E-9237-11A3A83B65B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F49F14-C8EF-4D0E-9237-11A3A83B65B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E13F8014-D165-4C4A-B3DD-ACF2340AD5DA}
+	EndGlobalSection
+EndGlobal
